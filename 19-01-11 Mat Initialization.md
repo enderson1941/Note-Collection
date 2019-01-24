@@ -16,7 +16,7 @@ myMat = cv::Mat( rows, cols, CV_8UC1 );
 // initial with other mat or data
 myMat.copyTo(myMat2);         // initial with mat
 
-cv::Point3i pts( 1, 2, 3 );   
+cv::Point3i pts( 1, 2, 3 );
 myMat2 = cv::Mat(pts, true);  // initial with other data
 
 cv::Mat_<double> myMat_ = ( cv::Mat_<double>(3, 3) <<
