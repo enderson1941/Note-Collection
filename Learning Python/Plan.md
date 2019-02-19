@@ -2,9 +2,8 @@
 ---
 ## Basic Python
 **2/19**
-* - [ ] [Begining Python](D:\github\files\study\python\Beginning.Python.From.Novice.to.Professional_2nd.Edition.pdf)
-* - [ ] [Python Standard Library](D:\github\files\study\python\Python标准库中文版.pdf)
 * - [ ] [Python Core Programming](D:\github\files\study\python\Python核心编程英文原版.Core.Python.Programming,2nd.Edition.pdf)
+* - [ ] [Python Standard Library](D:\github\files\study\python\Python标准库中文版.pdf)
 
 **2/20**
 * - [ ] Learning Python
