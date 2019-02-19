@@ -1,6 +1,5 @@
 # Adaptive Histogram Equalization
 ```c
-
 	cv::Mat bgr_image = cv::imread("img.png");
 	cv::Mat lab_image;
 	cv::cvtColor(bgr_image, lab_image, CV_BGR2Lab);
