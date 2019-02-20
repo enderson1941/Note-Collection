@@ -26,3 +26,16 @@ ham 1
 >>> aDict = {'host': 'earth'} # create dict
 >>> aDict['port'] = 80 # add to dict
 ```
+- print的格式化写法：
+```python
+>>> print("key=%s, value=%s" % (key, dict2[key]))
+```
+- python2中的range()函数返回的是一个list[]列表;python3中返回的是一个迭代器，节省内存，需要加list修饰才能输出列表。
+```python
+#python2
+>> range(0, 3, 1)
+[0, 1, 2]
+#python3
+>> list(range(0, 3, 1))
+[0, 1, 2]
+```
