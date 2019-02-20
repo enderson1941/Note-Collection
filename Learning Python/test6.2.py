@@ -1,3 +1,4 @@
+from functools import reduce
 a = "this is a string"
 print(a[0])
 b = list(a)
@@ -21,3 +22,26 @@ print(val)
 print(type(val))
 a1.myprint()
 a1(25)
+
+g = (x * x for x in range(10))
+for p in g:
+    print(p)
+
+# DIGITS = {'0': 0, '1': 1, '2': 2, '3': 3, '4': 4, '5': 5, '6': 6, '7': 7, '8': 8, '9': 9}
+#
+# def char2num(s):
+#     return DIGITS[s]
+#
+# def str2int(s):
+#     return reduce(lambda x, y: x * 10 + y, map(char2num, s))
+#
+# ret = str2int(5)
+# print(ret)
+
+def is_odd(n):
+    return n % 2 == 1
+
+L = list(filter(is_odd, range(1, 20)))
+print(L)
+L = list(filter(lambda x : x % 2 == 1,range(1,20)))
+print(L)
