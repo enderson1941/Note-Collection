@@ -9,6 +9,7 @@ ls = os.linesep
 while True:
     if os.path.exists(fname):
         print("ERROR: '%s' already exists" % fname)
+        exit()
     else:
         break
 # get file content (text) lines
