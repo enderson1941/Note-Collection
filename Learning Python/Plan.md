@@ -11,15 +11,16 @@
 
 **2/20**
 
--   -   [x] Learning Python
--   -   [x] Mastering Python
+-   -   [x] [Learning Python-O'really](D:\github\files\study\python\Learning_Python_5th_Edition.pdf)
+-   -   [x] [Learning Python-Packt](D:\github\files\study\python\LEARNING_PYTHON.pdf)
+-   -   [x] [Mastering Python-Packt](D:\github\files\study\python\MASTERING_PYTHON.pdf)
 
 ## OpenCV with Python
 
 **2/21**
 
--   -   [ ] Computer Vision Metrics
--   -   [ ] Programming Computer Vision with Python
+-   -   [ ] [Computer Vision Metrics](D:\github\files\study\OpenCV\computer_vision_metrics.pdf)
+-   -   [ ] [Programming Computer Vision with Python](D:\github\files\study\OpenCV\Programming_ComputerVision_with_python.pdf)
 
 **2/22**
 

@@ -23,7 +23,7 @@ ham 1
     1.  List成员用\[]修饰；Tuple用()
     2.  List容量及成员均可以改变；Tuple为只读属性，只可访问
 -   Dictionary字典
-    1.  有点类似C++中的map，及对应关系
+    1.  有点类似C++中的map，即对应关系
 
 ```Python
 >>> aDict = {'host': 'earth'} # create dict
