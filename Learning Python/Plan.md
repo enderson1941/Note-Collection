@@ -1,33 +1,46 @@
 # Study Play: Python[*2/19~2/27* ]
----
+
+* * *
+
 ## Basic Python
+
 **2/19**
-* - [ ] [Python Core Programming](D:\github\files\study\python\Python核心编程英文原版.Core.Python.Programming,2nd.Edition.pdf)
-* - [ ] [Python Standard Library](D:\github\files\study\python\Python标准库中文版.pdf)
+
+-   -   [x] [Python Core Programming](D:\github\files\study\python\Python核心编程英文原版.Core.Python.Programming,2nd.Edition.pdf)
+-   -   [x] [Python Standard Library](D:\github\files\study\python\Python标准库中文版.pdf)
 
 **2/20**
-* - [ ] Learning Python
-* - [ ] Mastering Python
+
+-   -   [x] Learning Python
+-   -   [x] Mastering Python
 
 ## OpenCV with Python
+
 **2/21**
-* - [ ] Computer Vision Metrics
-* - [ ] Programming Computer Vision with Python
+
+-   -   [ ] Computer Vision Metrics
+-   -   [ ] Programming Computer Vision with Python
 
 **2/22**
-* - [ ] Learning OpenCV 3 Computer Vision with Python
-* - [ ] OpenCV Computer Vision Projects with Python
-* - [ ] OpenCV Computer Vision with Python
+
+-   -   [ ] Learning OpenCV 3 Computer Vision with Python
+-   -   [ ] OpenCV Computer Vision Projects with Python
+-   -   [ ] OpenCV Computer Vision with Python
 
 **2/23-2/24: Review time**
+
 ## Machine Learning with Python
+
 **2/25**
-* - [ ] Python Machine Learning
-* - [ ] Building Machine Learning Systems with Python
+
+-   -   [ ] Python Machine Learning
+-   -   [ ] Building Machine Learning Systems with Python
 
 **2/26**
-* - [ ] Machine Learning in python
-* - [ ] Advanced Machine Learning with Python
+
+-   -   [ ] Machine Learning in python
+-   -   [ ] Advanced Machine Learning with Python
 
 **2/27**
-* - [ ] Deep learning with python
+
+-   -   [ ] Deep learning with python

@@ -14,7 +14,7 @@ while True:
         break
 # get file content (text) lines
 all = []
-print ("\nEnter lines ('.' by itself to quit).\n")
+print("\nEnter lines ('.' by itself to quit).\n")
 
 # loop until user terminates input
 while True:
@@ -28,4 +28,4 @@ while True:
 fobj = open(fname, 'w')
 fobj.writelines(['%s%s' % (x, ls) for x in all])
 fobj.close()
-print ('DONE!')
+print('DONE!')
