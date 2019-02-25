@@ -34,8 +34,8 @@
 
 **2/25**
 
--   -   [ ] Python Machine Learning
--   -   [ ] Building Machine Learning Systems with Python
+-   -   [ ] [Machine Learning in Python](D:\github\files\study\Machine Learning\Machine_Learning_in_python.pdf)
+-   -   [ ] [Building Machine Learning Systems with Python](D:\github\files\study\Machine Learning\Building-Machine-Learning-Systems-with-Python.pdf)
 
 **2/26**
 
