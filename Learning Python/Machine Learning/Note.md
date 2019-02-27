@@ -13,3 +13,8 @@ Cost Function:\\
 J(\\theta_0, \theta_1)=\frac{1}{2m}\sum^m_{i=1}(h_\theta(x^{(i)})-y^{(i)})^2\\
 Goal:\mathop{minimize}_{\theta_0,\theta_1}J(\theta_0, \theta_1)
 $$
+
+- 训练好的模型误差较大，如何消除误差：
+  - 尝试减少或增加特征的数量
+  - 尝试增加多项式特征
+  - 尝试增加或减少正则化程度 $\lambda$
