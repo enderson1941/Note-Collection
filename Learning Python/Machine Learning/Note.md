@@ -8,8 +8,8 @@ $$
 Hypothesis:\\
 h_\theta(x)=\theta_0+\theta_1x \\
 Parameters:\\
-\theta_0,\theta_1\\
+\theta_0,\\theta_1\\
 Cost Function:\\
-J(\theta_0, \theta_1)=\frac{1}{2m}\sum^m_{i=1}(h_\theta(x^{(i)})-y^{(i)})^2\\
+J(\\theta_0, \theta_1)=\frac{1}{2m}\sum^m_{i=1}(h_\theta(x^{(i)})-y^{(i)})^2\\
 Goal:\mathop{minimize}_{\theta_0,\theta_1}J(\theta_0, \theta_1)
 $$
