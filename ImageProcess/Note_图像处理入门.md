@@ -1,5 +1,5 @@
 # Notes or anything need to be memorized
-
+[preview](D:\github\Note-Collection\ImageProcess\Note_图像处理入门.md)
 * * *
 
 ## 一、图像处理的应用　　
