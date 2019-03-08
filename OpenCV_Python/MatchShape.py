@@ -56,15 +56,16 @@ def MatchShape(pattern_image, inspect_image, threshold_value):
                     0, 255), rd.randint(0, 255))
                 matchresult.append(TempValue)
                 inspect_contour.append(contour_var)
-                cv.drawContours(result_display, inspect_contour, -1, color, 3)
+                cv.drawContours(result_display, inspect_contour, -1, color, 6)
 
     return matchresult, result_display
 
 
 img1 = cv.imread(
-    "D:\\github\\ConsoleApplication2\\temp\\template3_.bmp", cv.IMREAD_COLOR)
+    "template3_.bmp", cv.IMREAD_COLOR)
 img2 = cv.imread(
-    "D:\\github\\ConsoleApplication2\\temp\\source.bmp", cv.IMREAD_COLOR)
+    "source.bmp", cv.IMREAD_COLOR)
+    #D:\\github\\ConsoleApplication2\\temp\\
 matchresult, display_image = MatchShape(img1, img2, 0.87)
 for value in matchresult:
     print("Inspect Result: ", value)
