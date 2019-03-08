@@ -2,8 +2,6 @@
 import random as rd
 
 import cv2 as cv
-import matplotlib.pyplot as plt
-import numpy as np
 
 
 def imageprocess1(image):
