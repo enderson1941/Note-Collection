@@ -65,7 +65,7 @@ img1 = cv.imread(
     "template3_.bmp", cv.IMREAD_COLOR)
 img2 = cv.imread(
     "source.bmp", cv.IMREAD_COLOR)
-    #D:\\github\\ConsoleApplication2\\temp\\
+# D:\\github\\ConsoleApplication2\\temp\\
 matchresult, display_image = MatchShape(img1, img2, 0.87)
 for value in matchresult:
     print("Inspect Result: ", value)
