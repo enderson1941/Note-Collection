@@ -14,10 +14,9 @@ class A():
 def func():
     return A()
 
-
 with A() as a:
-    #1 / 0
-    a.f()
+    # 1 / 0
+
     b = func()
     b.a = 3
     print(b.a)
