@@ -29,6 +29,6 @@ for image in imagefiles:
     dst = cv.imdecode(buff, cv.IMREAD_COLOR)
     cv.imwrite("output\\" + imagenames[cnt] + ".jpg", dst)
     cnt += 1
-ans = input("转换完成，输入‘y/Y’打开输出文件夹。\n")
+ans = input("转换完成，输入‘y/Y’打开输出文件夹，或选择退出程序。\n")
 if ans == "y" or ans == "Y":
     os.startfile("output")
